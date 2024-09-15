@@ -1,0 +1,63 @@
+/* .login-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  background: rgba(101, 99, 99, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+.login-box h2 {
+  margin: 0 0 30px;
+  padding: 0;
+  color: rgb(90, 88, 88);
+  text-align: center;
+}
+
+.login-box .user-box input {
+  width: 100%;
+  padding: 15px 0;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 2px;
+  color: rgb(116, 112, 112);
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  border-radius: 10px;
+}
+
+.login-box form a {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #656868;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.5s;
+  margin-top: 40px;
+  letter-spacing: 4px;
+}
+
+.login-box a:hover {
+  background: #9e9f9f;
+  color: #757272;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #757676, 0 0 25px #757676;
+} */
+/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">* {
+  margin: 0; */
+
+.add-cart{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: var();
+  color: var();
+  cursor: pointer;
+  padding: 10px;
+}
